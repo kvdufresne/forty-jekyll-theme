@@ -2,7 +2,7 @@
 title: Open Knowledge Center 
 subtitle: at North Carolina State University 
 email: https://www.lib.ncsu.edu/department/okc
-description: The Open Knowledge Center (OKC) is an incubator for communities, projects, initiatives, and programs that build on NC State’s strengths and leadership in public, open, and experimental approaches to research, scholarship, and education. 
+description: The Open Knowledge Center (OKC) is an incubator for communities, projects, initiatives, and programs. 
 baseurl: "/open-knowledge-center" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
