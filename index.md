@@ -1,11 +1,14 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'The Open Knowledge Center'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+The Open Knowledge Center (OKC) is an incubator for communities, projects, initiatives, and programs that build on NC State’s strengths and leadership in public, open, and experimental approaches to research, scholarship, and education. The Center is staffed by librarians, graduate assistants, and visiting scholars with deep expertise on information policy, open research and scholarship, and knowledge production workflows, tools, and platforms. 
+
+The Open Knowledge Center offers particular skills and expertise in: copyright, licensing, publishing, digital humanities, open education, open science, and critical approaches to data and technology.
+
